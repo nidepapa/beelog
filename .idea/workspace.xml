@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b0b0bf9-f1d5-448a-97b8-1b20de939a03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1iaPyWnFJsZcwmngHdAEdflqs5B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build beelog" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="beelog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="beelog" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build beelog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1602298209028">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1602298209028" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1602298209025">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1602298209025" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1602298209024">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1602298209024" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1602298209027">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1602298209027" />
+    <state x="221" y="66" key="SettingsEditor" timestamp="1602164472665">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="221" y="66" key="SettingsEditor/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1602143082343" />
+    <state x="221" y="66" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1602164472665" />
+  </component>
+</project>
