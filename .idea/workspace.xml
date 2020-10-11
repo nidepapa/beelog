@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b0b0bf9-f1d5-448a-97b8-1b20de939a03" name="Default Changelist" comment="" />
+    <list default="true" id="9b0b0bf9-f1d5-448a-97b8-1b20de939a03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,18 +17,32 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1iaPyWnFJsZcwmngHdAEdflqs5B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
@@ -53,30 +69,56 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&gt;&gt;&gt;add bootsatrp static&#10;&gt;&gt;&gt;add home page&#10;&gt;&gt;&gt;add sqlite3DB" />
+    <MESSAGE value="&gt;&gt;&gt; fix 排版 issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="&gt;&gt;&gt; fix 排版 issue" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1602298209028">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="365" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602405439641">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="365" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602405439641" />
+    <state x="303" y="23" width="833" height="816" key="CommitChangelistDialog2" timestamp="1602406942034">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="303" y="23" width="833" height="816" key="CommitChangelistDialog2/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602406942034" />
+    <state x="144" y="94" key="DiffContextDialog" timestamp="1602406908250">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="144" y="94" key="DiffContextDialog/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602406908250" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1602401611515">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1602298209028" />
-    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1602298209025">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="208" key="GridCell.Tab.0.bottom/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602401611515" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center" timestamp="1602401611513">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state width="1398" height="208" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1602298209025" />
-    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1602298209024">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="208" key="GridCell.Tab.0.center/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602401611513" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left" timestamp="1602401611512">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state width="1398" height="208" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1602298209024" />
-    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1602298209027">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="208" key="GridCell.Tab.0.left/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602401611512" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right" timestamp="1602401611514">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state width="1398" height="208" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1602298209027" />
+    <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602401611514" />
     <state x="221" y="66" key="SettingsEditor" timestamp="1602164472665">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state x="221" y="66" key="SettingsEditor/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1602143082343" />
     <state x="221" y="66" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1602164472665" />
+    <state x="320" y="151" key="Vcs.Push.Dialog.v2" timestamp="1602406943759">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="320" y="151" key="Vcs.Push.Dialog.v2/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602406943759" />
   </component>
 </project>
