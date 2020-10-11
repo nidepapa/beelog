@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b0b0bf9-f1d5-448a-97b8-1b20de939a03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/models.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/npm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/reload.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +72,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&gt;&gt;&gt;add bootsatrp static&#10;&gt;&gt;&gt;add home page&#10;&gt;&gt;&gt;add sqlite3DB" />
+    <option name="LAST_COMMIT_MESSAGE" value="&gt;&gt;&gt;add bootsatrp static&#10;&gt;&gt;&gt;add home page&#10;&gt;&gt;&gt;add sqlite3DB" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -105,10 +83,10 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="365" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602405439641" />
-    <state x="303" y="25" key="CommitChangelistDialog2" timestamp="1602406427217">
+    <state x="303" y="23" width="833" height="816" key="CommitChangelistDialog2" timestamp="1602406461361">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state x="303" y="25" key="CommitChangelistDialog2/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602406427217" />
+    <state x="303" y="23" width="833" height="816" key="CommitChangelistDialog2/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602406461361" />
     <state width="1398" height="208" key="GridCell.Tab.0.bottom" timestamp="1602401611515">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
@@ -134,5 +112,9 @@
     </state>
     <state x="221" y="66" key="SettingsEditor/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1602143082343" />
     <state x="221" y="66" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1602164472665" />
+    <state x="320" y="151" key="Vcs.Push.Dialog.v2" timestamp="1602406464058">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="320" y="151" key="Vcs.Push.Dialog.v2/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1602406464058" />
   </component>
 </project>
