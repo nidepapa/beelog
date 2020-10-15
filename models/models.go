@@ -4,6 +4,7 @@ import (
 	"github.com/astaxie/beego/orm"
 	"os"
 	"path"
+	"strconv"
 	"time"
 
 	_ "github.com/mattn/go-sqlite3"
@@ -48,4 +49,52 @@ func RegisterDB() {
 	orm.RegisterDriver(_SQLITE3_DRIVE, orm.DRSqlite)
 	// 注册数据库，必须要有一个名称为"default"的DB
 	orm.RegisterDataBase("default", _SQLITE3_DRIVE, _DB_NAME, 10)
+}
+
+func AddCategory(name string) error {
+	o := orm.NewOrm()
+
+	cate := &Category{
+		Title:     name,
+		Created:   time.Now(),
+		TopicTime: time.Now(),
+	}
+
+	// 查询数据
+	qs := o.QueryTable("category")
+	err := qs.Filter("title", name).One(cate)
+	if err == nil {
+		return err
+	}
+
+	// 插入数据
+	_, err = o.Insert(cate)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func DeleteCategory(id string) error {
+	cid, err := strconv.ParseInt(id, 10, 64)
+	if err != nil {
+		return err
+	}
+
+	o := orm.NewOrm()
+
+	cate := &Category{Id: cid}
+	_, err = o.Delete(cate)
+	return err
+}
+
+func GetAllCategories() ([]*Category, error) {
+	o := orm.NewOrm()
+
+	cates := make([]*Category, 0)
+
+	qs := o.QueryTable("category")
+	_, err := qs.All(&cates)
+	return cates, err
 }
